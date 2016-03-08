@@ -1,0 +1,2 @@
+# PSInifiteScrollView
+基于UIScrollView实现的高性能图片轮播器
